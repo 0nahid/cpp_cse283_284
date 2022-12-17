@@ -13,7 +13,7 @@ public:
 int main()
 {
     Car carObj1;
-    carObj1.brand = "BMW";
+    carObj1.brand = "Land Rover";
     carObj1.model = "X5";
     carObj1.year = 1999;
 
